@@ -1,0 +1,17 @@
+﻿Compilación iniciada a las 02:29 p. m....
+1>------ Operación Compilar iniciada: Proyecto: TrabajoFinal, configuración: Debug x64 ------
+1>Main.cpp
+1>C:\TrabajoFinal\TrabajoFinal\HashTableChaining.h(104,27): warning C4018: '<': no coinciden signed/unsigned
+1>(compilando archivo de origen "Main.cpp")
+1>    C:\TrabajoFinal\TrabajoFinal\HashTableChaining.h(104,27):
+1>    el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+1>        C:\TrabajoFinal\TrabajoFinal\Main.cpp(11,28):
+1>        Vea la referencia a la creación de una instancia de clase plantilla "HashTableChaining<int>" que se está compilando
+1>        C:\TrabajoFinal\TrabajoFinal\HashTableChaining.h(101,10):
+1>        al compilar la función del miembro clase plantilla "void HashTableChaining<int>::Print(void)"
+1>            C:\TrabajoFinal\TrabajoFinal\Main.cpp(21,16):
+1>            vea la primera referencia a “HashTableChaining<int>::Print” en “HashTableChainingExample”
+1>TrabajoFinal.vcxproj -> C:\TrabajoFinal\x64\Debug\TrabajoFinal.exe
+1>Compilación del proyecto "TrabajoFinal.vcxproj" terminada.
+========== Compilación: 1 correcto, 0 erróneo, 0 actualizado, 0 omitido ==========
+========== Compilar completado a las 02:29 p. m. y tardó 00.757 segundos ==========
